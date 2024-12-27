@@ -1,1 +1,48 @@
-
+body{
+  background-color: teal;
+}
+#ftr{
+  background-color: whitesmoke;
+  font-size: 15px;
+  border-color: red;
+  color: teal;
+  
+  
+  
+  
+}
+#st{
+  text-align: center;
+  font-size: 50px;
+  color: aqua
+}
+div{
+  background-color: whitesmoke;
+  font-size: 50px;
+  text-align: center;
+  color: teal;
+  
+  
+}
+#p1{
+  background-color: whitesmoke;
+  text-align: center;
+  color: red;
+  font-size: 40px;
+  
+}
+#b1{
+  background-color: thistle;
+  border-color: red;
+  font-size: 50px;
+  border-width: 2px;
+  
+  
+}
+#b2{
+  background-color: thistle;
+  border-color: red;
+  font-size: 50px;
+  border-width: 2px;
+  
+}
