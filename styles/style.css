@@ -32,17 +32,33 @@ div{
   
 }
 #b1{
-  background-color: thistle;
-  border-color: red;
   font-size: 50px;
-  border-width: 2px;
+  
+  
   
   
 }
 #b2{
-  background-color: thistle;
-  border-color: red;
+  
   font-size: 50px;
-  border-width: 2px;
+}
+#ol1{
+  font-size: 20px;
+  color: aqua;
   
 }
+#m1{
+  height: 400px;
+  width: 380px;
+  align: rigth;
+  
+  
+}
+
+
+
+
+
+
+
+
